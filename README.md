@@ -8,7 +8,6 @@ We have two options to run this application:
 [Download APK](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40macielbarbosa/cantoo-movies-a58b0954250a4a4985ab1c8643b25865-signed.apk)
 
 ## 2. Open in development environment
-S
 - Clone this repository:  
 `git clone https://github.com/macielbarbosa/Movie-Database-App.git`  
 - Install the dependencies:  
